@@ -1,18 +1,18 @@
 # Channel status
 
-> How many posts each channel published and how many failed, day by day for the last 90 days.
+> How many posts each channel published and how many failed, day by day for the last 30 days.
 
 The chart above is drawn from the public status route each time the page opens. Counting began the day the route went live, so the chart names that day and leaves earlier days empty instead of calling them clear.
 
 ## What the chart counts
 
-Each channel's row shows the last 90 days. A day shows how many posts Skryvo published to that channel and how many the platform refused, counted across every Skryvo account as each post is recorded. A post counts as published once Skryvo has read it back live, and as failed when the platform refused it; a post Skryvo itself could not send in time is not counted against the channel. Nothing is sampled or estimated.
+Each channel's row shows the last 30 days. A day shows how many posts Skryvo published to that channel and how many the platform refused, counted across every Skryvo account as each post is recorded. A post counts as published once Skryvo has read it back live, and as failed when the platform refused it; a post Skryvo itself could not send in time is not counted against the channel. Nothing is sampled or estimated.
 
 | A day shows | It means |
 |---|---|
 | Published and no failures | Every post due that day went out. |
 | Some failures | The platform refused some posts. A refusal can be the post's own (too long, a missing picture, an account that needs reconnecting), so a failure on one day does not mean the channel was down. |
-| No posts | Nobody had a post due on that channel that day. Skryvo cannot say whether the channel worked, so the day is shown as no posts, never as working or as down. |
+| No posts, no failures (pale green) | Nobody had a post due on that channel that day, so nothing was refused. Skryvo did not post that day, so it says no more about the channel than that. |
 | Not counted yet | The day is before `counted_since`, when counting began. It is left empty rather than shown as a day with no failures. |
 
 ## Read it yourself
