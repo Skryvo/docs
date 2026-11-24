@@ -28,7 +28,7 @@ The **Channels** step lists every channel. Pick one and sign in on the platform'
 
 ## 5. Start the trial
 
-The **Plan** step offers Hobby and Pro, each with a 7-day free trial and no card. See [Plans and the trial](https://skryvo.ai/docs/start/plans-and-trial/).
+The **Plan** step offers Hobby and Pro, each with a 7-day free trial that costs $0 and needs no card: press **Start for $0**. See [Plans and the trial](https://skryvo.ai/docs/start/plans-and-trial/).
 
 ## 6. Approve your first week
 

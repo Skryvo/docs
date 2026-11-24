@@ -21,9 +21,9 @@ Prices are in US dollars. Every plan has every channel, the AI agent tools and t
 
 ## The 7-day free trial
 
-Hobby and Pro start with a 7-day free trial with no card. There is no free plan.
+Hobby and Pro start with a 7-day free trial that costs $0 and needs no card. There is no free plan.
 
-1. Pick Hobby or Pro in setup or in Plan & billing and start making at once.
+1. Pick Hobby or Pro in setup or in Plan & billing, press **Start for $0** and start making at once.
 2. For 7 days you get a week's share of the plan: 35 generations and 20 image credits on Hobby, 120 generations and 70 image credits on Pro. Every other limit is the plan's own.
 3. The day before the trial ends, Skryvo emails you the date and the amount.
 4. Add a card in Billing to keep the plan from day 8, when the full month opens. **Start my plan now** charges the card and opens the full month at once.

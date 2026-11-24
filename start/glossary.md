@@ -17,7 +17,7 @@
 | Planned topic | A calendar row with a topic and a time but no post yet. Skryvo drafts it before its time for you to approve. |
 | Desk | The dashboard's list of what needs you today: drafts to approve, posts that need a channel connected, posts a platform refused. |
 | Plan | Hobby, Pro or Enterprise: what an account may make each month. See [Plans and the trial](https://skryvo.ai/docs/start/plans-and-trial/). |
-| Trial | The first 7 days of Hobby or Pro, with no card. |
+| Trial | The first 7 days of Hobby or Pro, for $0 and with no card. |
 | Workspace | An owner's account and everything in it. On Pro and Enterprise the owner can invite members, who work in the workspace on its plan. See [Teams](https://skryvo.ai/docs/using/teams/). |
 | Read back | The check after publishing: Skryvo asks the platform for the post it just sent, and only a post found there counts as published. |
 
