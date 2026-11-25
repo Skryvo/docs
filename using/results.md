@@ -15,7 +15,7 @@ Each post published through Skryvo is read from its platform at 1 hour, 24 hours
 | Blog articles | Search clicks, impressions, click rate and position from your Google Search Console, once you **Connect Google** |
 | Telegram, Discord, Slack | Nothing: these platforms give apps no numbers, so their posts read as unmeasured |
 
-A number Skryvo cannot read is never shown as a zero: it reads as pending, reconnect, unmeasured or unlinked.
+A number Skryvo cannot read is never shown as a zero: it reads as pending, reconnect, unmeasured, unlinked, or not shared when the platform refuses that post's numbers.
 
 Links in posts to LinkedIn, Facebook, X, Threads, Mastodon and Pinterest carry tracking tags, so visits to your site can be matched to the post.
 
