@@ -2,7 +2,7 @@
 
 > Send a callback_url with a long call and get a 202 at once; the answer arrives signed at your address, or by polling the job.
 
-Some calls take a minute or more: [`write_post`](https://skryvo.ai/docs/tools/write-post/) (`POST /api/v1/agent/drafts`), [`design_picture`](https://skryvo.ai/docs/tools/design-picture/) (`POST /api/v1/agent/pictures`) and [`plan_article`](https://skryvo.ai/docs/tools/plan-article/) (`POST /api/v1/agent/articles/plan`). A tool that waits on an answer, such as an automation step with a time limit, can pass `callback_url` instead and carry on. Without it, nothing changes: the call answers when the work is done, as before.
+Some calls take a minute or more: [`write_post`](https://skryvo.ai/docs/tools/write-post/) (`POST /api/v1/agent/drafts`), [`design_picture`](https://skryvo.ai/docs/tools/design-picture/) (`POST /api/v1/agent/pictures`), [`plan_article`](https://skryvo.ai/docs/tools/plan-article/) (`POST /api/v1/agent/articles/plan`) and [`job_status`](https://skryvo.ai/docs/tools/job-status/) (`GET /api/v1/agent/jobs/{job_id}`). A tool that waits on an answer, such as an automation step with a time limit, can pass `callback_url` instead and carry on. Without it, nothing changes: the call answers when the work is done, as before.
 
 ## When to use it
 

@@ -29,7 +29,7 @@ Settings › API & agents lists every connected app with Disconnect.
 
 ## What an agent can and cannot do
 
-An agent can call only the [34 tools](https://skryvo.ai/docs/tools/), and through them only what your plan, your role and your brand's rules allow. It cannot change your plan, billing, password or connected accounts. Skryvo receives the tool calls, never the rest of your conversation with the agent. The server sets who is calling from the key or token and ignores any identity a caller sends. More on [agent safety](https://skryvo.ai/docs/agents/safety/).
+An agent can call only the [35 tools](https://skryvo.ai/docs/tools/), and through them only what your plan, your role and your brand's rules allow. It cannot change your plan, billing, password or connected accounts. Skryvo receives the tool calls, never the rest of your conversation with the agent. The server sets who is calling from the key or token and ignores any identity a caller sends. More on [agent safety](https://skryvo.ai/docs/agents/safety/).
 
 ## Limits that protect the service
 

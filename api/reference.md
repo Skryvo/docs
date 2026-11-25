@@ -11,7 +11,7 @@ Who the key belongs to and what the plan still allows.
 | Route | What it does | Page |
 |---|---|---|
 | `GET /me` | Who this key belongs to | Below |
-| `GET /jobs/{job_id}` | Read a job | Below |
+| `GET /jobs/{job_id}` | Read a job | [`job_status`](https://skryvo.ai/docs/tools/job-status/) |
 | `GET /balance` | What this month still allows | [`balance`](https://skryvo.ai/docs/tools/balance/) |
 | `POST /defaults` | Keep choices as the brand's defaults | [`keep_defaults`](https://skryvo.ai/docs/tools/keep-defaults/) |
 
@@ -23,35 +23,6 @@ The email of the account the key or token acts for, and its plan.
 {
   "email": "sam@example.com",
   "plan": "pro"
-}
-```
-
-### GET /jobs/{job_id}
-
-Where a call made with `callback_url` is: `running`, `done` with the route's own answer, or `failed` with the status and sentence the route would have answered. A job whose process is lost ends failed within about 15 minutes and is not charged.
-
-```json
-{
-  "job_id": "job_5e4d3c2b1a09f8e7d6c5b4a3",
-  "kind": "pictures",
-  "status": "done",
-  "answer": {
-    "brand_id": "bv_3c9d0e",
-    "headline": "Our new studio opens Saturday",
-    "pictures": [
-      {
-        "platform": "linkedin",
-        "image_url": "https://media.skryvo.ai/images/u1/p-1200.jpg",
-        "width": 1200,
-        "height": 1200
-      }
-    ],
-    "credits_used": 4,
-    "credits_left": 176
-  },
-  "error": null,
-  "started_at": "2026-11-24T09:00:00+00:00",
-  "finished_at": "2026-11-24T09:01:12+00:00"
 }
 ```
 

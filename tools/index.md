@@ -8,6 +8,7 @@ Every tool an agent can call, with its inputs, an example and its cost.
 - [List channels (`list_channels`)](https://skryvo.ai/docs/tools/list-channels/): Your connected accounts and blog sites, and which brands use each.
 - [Write a post (`write_post`)](https://skryvo.ai/docs/tools/write-post/): Drafts a post for up to four platforms in the brand's voice. One generation covers them all. Nothing is scheduled.
 - [Design a picture (`design_picture`)](https://skryvo.ai/docs/tools/design-picture/): Designs a picture for the post in your brand's look, at each platform's own size, using Image Studio credits.
+- [Job status (`job_status`)](https://skryvo.ai/docs/tools/job-status/): Says where a slow post or picture is, and hands back its answer once it is done.
 - [Post results (`post_results`)](https://skryvo.ai/docs/tools/post-results/): Reach and engagement, best posting times and top posts for the days you ask about.
 - [Schedule a post (`schedule_post`)](https://skryvo.ai/docs/tools/schedule-post/): Puts a post on your calendar for each chosen account, with its picture. Skryvo publishes it on the quarter hour and checks it went live.
 - [List scheduled posts (`list_scheduled_posts`)](https://skryvo.ai/docs/tools/list-scheduled-posts/): Upcoming and recent posts with their status and any publishing problem.

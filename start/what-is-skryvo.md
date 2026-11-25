@@ -25,7 +25,7 @@ Live today: LinkedIn, X, Facebook Page, Instagram, Threads, Bluesky, Mastodon, P
 ## Three ways to use it
 
 1. **The app** at https://app.skryvo.ai, in 20 languages.
-2. **An AI agent.** Connect Claude, ChatGPT, Cursor, VS Code or any MCP client to `https://api.skryvo.ai/mcp`. The agent gets 34 tools and shows you each post before it schedules it. See [Connect an agent](https://skryvo.ai/docs/agents/connect/).
+2. **An AI agent.** Connect Claude, ChatGPT, Cursor, VS Code or any MCP client to `https://api.skryvo.ai/mcp`. The agent gets 35 tools and shows you each post before it schedules it. See [Connect an agent](https://skryvo.ai/docs/agents/connect/).
 3. **The REST API** at `https://api.skryvo.ai/api/v1/agent`, one route per tool, with an API key. See the [API overview](https://skryvo.ai/docs/api/overview/).
 
 ## What it does not do

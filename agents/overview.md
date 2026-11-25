@@ -2,7 +2,7 @@
 
 > The MCP server and the REST API, how an agent signs in, and what it does before it spends anything.
 
-An AI agent such as Claude, ChatGPT or Cursor works in a person's Skryvo account through 34 tools. It lists their brands and channels, writes posts and articles in a brand's voice, designs pictures, schedules them and reads how they did. The tools run the same code as the app, so plan limits, brand settings, team roles and each platform's rules apply exactly as they do there.
+An AI agent such as Claude, ChatGPT or Cursor works in a person's Skryvo account through 35 tools. It lists their brands and channels, writes posts and articles in a brand's voice, designs pictures, schedules them and reads how they did. The tools run the same code as the app, so plan limits, brand settings, team roles and each platform's rules apply exactly as they do there.
 
 ## Two ways in
 

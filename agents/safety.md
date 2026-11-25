@@ -4,7 +4,7 @@
 
 ## Only these tools
 
-A connected agent can use the 34 [agent tools](https://skryvo.ai/docs/tools/) and nothing else. It cannot change the person's plan, password, connected accounts or billing, and it sees only the signed-in account: asking for another person's posts is refused.
+A connected agent can use the 35 [agent tools](https://skryvo.ai/docs/tools/) and nothing else. It cannot change the person's plan, password, connected accounts or billing, and it sees only the signed-in account: asking for another person's posts is refused.
 
 ## Tools that change something
 

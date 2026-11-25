@@ -14,7 +14,7 @@
 Designs one picture for a post in the brand's kept look (its colours, type, logo and own photos), with a copy sized for each platform. The post's opening line is set on the picture unless `headline` (up to nine words) is given. `direction` carries the person's own words, such as warmer or calmer; `photo_id` picks one of the brand's photos. Takes about a minute and spends one picture's credits for each page shape the platforms need. The brand must have kept a look first. Nothing is scheduled.
 
 With `callback_url` the call answers 202 at once with a job; the work runs as it would have, charged and refunded the same way, and its answer (or refusal) is posted to `callback_url` as `job.done` or `job.failed`, signed with the job's `secret` like a webhook and retried the same way. `GET /jobs/{job_id}` reads it meanwhile.
-Until the brand keeps a look, the call is refused; [`change_look`](https://skryvo.ai/docs/tools/change-look/) designs and keeps one.
+Until the brand keeps a look, the call is refused; [`change_look`](https://skryvo.ai/docs/tools/change-look/) designs and keeps one. A picture that needs more than about 45 seconds answers `status: working` with a `job_id`; [`job_status`](https://skryvo.ai/docs/tools/job-status/) hands back the finished picture.
 
 ## Inputs
 

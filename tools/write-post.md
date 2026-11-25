@@ -14,6 +14,7 @@
 Writes a post about `topic` for up to four platforms in the brand's own voice. Pass only what the person said. When platforms or pictures were left out, the call writes nothing and returns `status: confirm` with every setting, where it came from (`you`, `brand`, `brand profile`, `Skryvo default`), the cost and what is left; call again with the person's final values and `confirmed: true`. One generation for the whole batch, plus picture credits when pictures are on. Nothing is scheduled.
 
 With `callback_url` the call answers 202 at once with a job; the work runs as it would have, charged and refunded the same way, and its answer (or refusal) is posted to `callback_url` as `job.done` or `job.failed`, signed with the job's `secret` like a webhook and retried the same way. `GET /jobs/{job_id}` reads it meanwhile.
+With pictures, a call that needs more than about 45 seconds answers `status: working` with a `job_id`; [`job_status`](https://skryvo.ai/docs/tools/job-status/) hands back the finished posts.
 
 ## Inputs
 
