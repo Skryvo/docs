@@ -22,6 +22,7 @@ What each channel takes, how to connect it, and why a post can fail.
 - [Google Business Profile](https://skryvo.ai/docs/channels/google-business-profile/): What Skryvo posts to Google Business Profile, its limits, how to connect it, and why a post can fail.
 - [Tumblr](https://skryvo.ai/docs/channels/tumblr/): What Skryvo posts to Tumblr, its limits, how to connect it, and why a post can fail.
 - [Ghost](https://skryvo.ai/docs/channels/ghost/): What Skryvo posts to Ghost, its limits, how to connect it, and why a post can fail.
+- [Blogger](https://skryvo.ai/docs/channels/blogger/): What Skryvo posts to Blogger, its limits, how to connect it, and why a post can fail.
 
 ---
 

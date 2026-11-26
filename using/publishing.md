@@ -26,7 +26,7 @@ Up to five comments can go out at their own times after a post. On X, Bluesky, M
 
 ## Articles
 
-A finished article goes to WordPress, WordPress.com or Dev.to from **Publish article**: tick one site or several, then **Publish now** (a draft first, by default) or **Schedule**. When an article goes to WordPress and Dev.to, WordPress goes first and Dev.to follows 15 minutes later with a canonical link to the WordPress post.
+A finished article goes to WordPress, WordPress.com, Ghost, Blogger or Dev.to from **Publish article**: tick one site or several, then **Publish now** (a draft first, by default) or **Schedule**. When an article goes to WordPress and Dev.to, WordPress goes first and Dev.to follows 15 minutes later with a canonical link to the WordPress post.
 
 ## Why a post did not go out
 

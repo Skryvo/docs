@@ -20,7 +20,7 @@ You can also write your own posts (no AI and no generation used), bring your own
 
 ## Where it publishes
 
-Live today: LinkedIn, X, Facebook Page, Instagram, Threads, Bluesky, Mastodon, Pinterest, TikTok, Telegram, Discord, Slack, WordPress, WordPress.com, Dev.to, YouTube, Google Business Profile, Tumblr and Ghost. Built and waiting for the platform's approval: LinkedIn Page. Each channel has its own page under [Channels](https://skryvo.ai/docs/channels/).
+Live today: LinkedIn, X, Facebook Page, Instagram, Threads, Bluesky, Mastodon, Pinterest, TikTok, Telegram, Discord, Slack, WordPress, WordPress.com, Dev.to, YouTube, Google Business Profile, Tumblr, Ghost and Blogger. Built and waiting for the platform's approval: LinkedIn Page. Each channel has its own page under [Channels](https://skryvo.ai/docs/channels/).
 
 ## Three ways to use it
 
