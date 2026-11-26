@@ -4,6 +4,8 @@
 
 A scenario that writes posts in the brand's voice for each new item, sends them for a yes, and schedules the approved ones. It uses Make's own HTTP module against the [REST API](https://skryvo.ai/docs/api/overview/).
 
+Skryvo's own [Make app](https://github.com/Skryvo/make-skryvo) is published under the MIT licence and does the same steps without the HTTP settings.
+
 ## Before you start
 
 1. In Skryvo, open **Settings › API & agents** and create an API key. Store it as a secret in the tool, never in the workflow's text.
