@@ -1,6 +1,6 @@
 # Finish a video
 
-> Reads an uploaded video and makes it ready to schedule.
+> Reads an uploaded video and makes it ready to schedule. Inputs, an example and the cost of finish_video for agents and the API.
 
 | | |
 |---|---|

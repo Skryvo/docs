@@ -1,4 +1,4 @@
-# YouTube
+# Post to YouTube
 
 > What Skryvo posts to YouTube, its limits, how to connect it, and why a post can fail.
 

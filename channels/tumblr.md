@@ -1,4 +1,4 @@
-# Tumblr
+# Post to Tumblr
 
 > What Skryvo posts to Tumblr, its limits, how to connect it, and why a post can fail.
 

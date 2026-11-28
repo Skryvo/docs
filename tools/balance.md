@@ -1,6 +1,6 @@
 # Balance
 
-> Says what your plan still allows this month.
+> Says what your plan still allows this month. Inputs, an example and the cost of balance for agents and the API.
 
 | | |
 |---|---|

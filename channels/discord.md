@@ -1,4 +1,4 @@
-# Discord
+# Post to Discord
 
 > What Skryvo posts to Discord, its limits, how to connect it, and why a post can fail.
 

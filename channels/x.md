@@ -1,4 +1,4 @@
-# X
+# Post to X
 
 > What Skryvo posts to X, its limits, how to connect it, and why a post can fail.
 

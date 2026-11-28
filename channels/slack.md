@@ -1,4 +1,4 @@
-# Slack
+# Post to Slack
 
 > What Skryvo posts to Slack, its limits, how to connect it, and why a post can fail.
 

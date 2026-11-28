@@ -1,4 +1,4 @@
-# WordPress and WordPress.com
+# Publish to WordPress and WordPress.com
 
 > What Skryvo posts to WordPress, its limits, how to connect it, and why a post can fail.
 

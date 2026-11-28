@@ -1,4 +1,4 @@
-# Google Business Profile
+# Post to Google Business Profile
 
 > What Skryvo posts to Google Business Profile, its limits, how to connect it, and why a post can fail.
 

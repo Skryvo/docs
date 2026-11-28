@@ -1,6 +1,6 @@
 # Review a post
 
-> Records your decision on a team post waiting for approval.
+> Records your decision on a team post waiting for approval. Inputs, an example and the cost of review_post for agents and the API.
 
 | | |
 |---|---|

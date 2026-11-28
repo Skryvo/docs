@@ -1,4 +1,4 @@
-# Instagram
+# Post to Instagram
 
 > What Skryvo posts to Instagram, its limits, how to connect it, and why a post can fail.
 

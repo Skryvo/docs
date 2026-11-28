@@ -1,4 +1,4 @@
-# Bluesky
+# Post to Bluesky
 
 > What Skryvo posts to Bluesky, its limits, how to connect it, and why a post can fail.
 

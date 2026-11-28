@@ -1,6 +1,6 @@
 # Keep as defaults
 
-> Keeps your choices as the brand's defaults, after you say yes.
+> Keeps your choices as the brand's defaults, after you say yes. Inputs, an example and the cost of keep_defaults for agents and the API.
 
 | | |
 |---|---|

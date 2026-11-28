@@ -1,4 +1,4 @@
-# Telegram
+# Post to Telegram
 
 > What Skryvo posts to Telegram, its limits, how to connect it, and why a post can fail.
 

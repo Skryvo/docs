@@ -1,6 +1,6 @@
 # List brands
 
-> Your brands and which one is the default.
+> Your brands and which one is the default. Inputs, an example and the cost of list_brands for agents and the API.
 
 | | |
 |---|---|

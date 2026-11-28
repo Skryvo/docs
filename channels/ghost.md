@@ -1,4 +1,4 @@
-# Ghost
+# Publish to Ghost
 
 > What Skryvo posts to Ghost, its limits, how to connect it, and why a post can fail.
 

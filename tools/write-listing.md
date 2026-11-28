@@ -1,6 +1,6 @@
 # Write a product listing
 
-> Writes a product listing shaped for its marketplace's rules.
+> Writes a product listing shaped for its marketplace's rules. Inputs, an example and the cost of write_listing for agents and the API.
 
 | | |
 |---|---|

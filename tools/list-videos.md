@@ -1,6 +1,6 @@
 # List videos
 
-> Your own finished videos, uploaded here or in Skryvo.
+> Your own finished videos, uploaded here or in Skryvo. Inputs, an example and the cost of list_videos for agents and the API.
 
 | | |
 |---|---|

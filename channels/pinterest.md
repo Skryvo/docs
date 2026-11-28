@@ -1,4 +1,4 @@
-# Pinterest
+# Post to Pinterest
 
 > What Skryvo posts to Pinterest, its limits, how to connect it, and why a post can fail.
 

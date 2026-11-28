@@ -1,4 +1,4 @@
-# Mastodon
+# Post to Mastodon
 
 > What Skryvo posts to Mastodon, its limits, how to connect it, and why a post can fail.
 

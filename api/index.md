@@ -1,4 +1,4 @@
-# API
+# REST API
 
 > Sign-in, errors, limits, webhooks and every route of the REST API.
 

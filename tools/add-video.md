@@ -1,6 +1,6 @@
 # Add a video
 
-> Opens an upload for your own video file. Skryvo never makes video.
+> Opens an upload for your own video file. Skryvo never makes video. Inputs, an example and the cost of add_video for agents and the API.
 
 | | |
 |---|---|

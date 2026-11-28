@@ -1,4 +1,4 @@
-# Dev.to
+# Publish to Dev.to
 
 > What Skryvo posts to Dev.to, its limits, how to connect it, and why a post can fail.
 

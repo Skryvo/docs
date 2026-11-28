@@ -1,4 +1,4 @@
-# Blogger
+# Publish to Blogger
 
 > What Skryvo posts to Blogger, its limits, how to connect it, and why a post can fail.
 

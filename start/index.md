@@ -1,4 +1,4 @@
-# Start
+# Getting started
 
 > What Skryvo is, a first post from sign-up to live, the words it uses and its plans.
 

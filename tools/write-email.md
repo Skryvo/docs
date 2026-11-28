@@ -1,6 +1,6 @@
 # Write an email
 
-> Writes a marketing email in the brand's voice.
+> Writes a marketing email in the brand's voice. Inputs, an example and the cost of write_email for agents and the API.
 
 | | |
 |---|---|

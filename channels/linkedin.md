@@ -1,4 +1,4 @@
-# LinkedIn
+# Post to LinkedIn
 
 > What Skryvo posts to LinkedIn, its limits, how to connect it, and why a post can fail.
 

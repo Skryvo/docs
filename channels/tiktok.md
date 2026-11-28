@@ -1,4 +1,4 @@
-# TikTok
+# Post to TikTok
 
 > What Skryvo posts to TikTok, its limits, how to connect it, and why a post can fail.
 

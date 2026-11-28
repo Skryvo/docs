@@ -1,4 +1,4 @@
-# Threads
+# Post to Threads
 
 > What Skryvo posts to Threads, its limits, how to connect it, and why a post can fail.
 

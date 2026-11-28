@@ -1,6 +1,6 @@
 # Cancel a post
 
-> Removes a scheduled post before it goes out.
+> Removes a scheduled post before it goes out. Inputs, an example and the cost of cancel_post for agents and the API.
 
 | | |
 |---|---|

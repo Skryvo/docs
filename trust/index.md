@@ -1,4 +1,4 @@
-# Trust
+# Trust and status
 
 > Channel status, security, data, known limits and what changed.
 

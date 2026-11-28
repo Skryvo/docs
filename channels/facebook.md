@@ -1,4 +1,4 @@
-# Facebook Page
+# Post to Facebook Page
 
 > What Skryvo posts to Facebook Page, its limits, how to connect it, and why a post can fail.
 

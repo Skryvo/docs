@@ -1,6 +1,6 @@
 # List channels
 
-> Your connected accounts and blog sites, and which brands use each.
+> Your connected accounts and blog sites, and which brands use each. Inputs, an example and the cost of list_channels for agents and the API.
 
 | | |
 |---|---|
